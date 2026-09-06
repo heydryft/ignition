@@ -104,8 +104,8 @@ surface small. This is the single largest technical risk in the project.
 | D3DMetal  | Apple    | bundled by CrossOver and Heroic; verify terms before shipping |
 | Rosetta 2 | Apple    | never redistribute; it is part of the OS |
 
-Ignition's own code may use any licence. LGPL components must stay dynamically
-linked and replaceable.
+Ignition's own code is MIT. LGPL components must stay dynamically linked and
+replaceable.
 
 ## Library model
 

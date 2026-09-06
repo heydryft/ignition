@@ -37,5 +37,7 @@ Ignition is the attempt to make that afternoon unnecessary.
 
 ## Licence
 
-Not yet chosen. Components it will build on — Wine, DXMT, DXVK, FEX — are LGPL,
-zlib and MIT, and must remain dynamically linked and replaceable.
+MIT. See [LICENSE](LICENSE).
+
+Components it builds on — Wine, DXMT, DXVK, FEX — are LGPL, zlib and MIT, and
+must remain dynamically linked and replaceable.
